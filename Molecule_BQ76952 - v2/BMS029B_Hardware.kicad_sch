@@ -1,0 +1,10357 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "f08bab55-1c4e-4a72-bb9d-5f5d8971df5c")
+	(paper "User" 431.8 279.4)
+	(title_block
+		(title "Hardware")
+		(date "Not shown in title block")
+		(rev "Use project parameter SCH_Rev")
+		(company "Not shown in title block")
+	)
+	(lib_symbols
+		(symbol "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "These assemblies are ESD sensitive, ESD precautions shall be observed."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*AssemblyNote*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Assembly Note_Altium Vault - TI_1_0"
+				(rectangle
+					(start 10.16 1.27)
+					(end -10.16 -1.27)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "Assembly Note"
+					(at 0 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_Bumpon_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Bumpon, Hemisphere, 0.44 X 0.20, Clear"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*Bumpon_SJ5003Transparent*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Bumpon_Altium Vault - TI_1_0"
+				(polyline
+					(pts
+						(xy -5.08 0) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.508)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 4.064 0)
+					(mid 0 -4.064)
+					(end -4.064 0)
+					(stroke
+						(width 0.508)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_CMP-0074769-1_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "WEEE logo"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*WEEE_Minimum*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_CMP-0074769-1_Altium Vault - TI_1_0"
+				(text "PCB"
+					(at -1.328 1.524 0)
+					(effects
+						(font
+							(size 1.778 1.778)
+						)
+					)
+				)
+				(text "LOGO"
+					(at 0 -1.778 0)
+					(effects
+						(font
+							(size 1.778 1.778)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_CMP-0074847-1_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "FCC_disclaimer"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*FCC_disclaimer*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_CMP-0074847-1_Altium Vault - TI_1_0"
+				(text "PCB"
+					(at -1.328 1.524 0)
+					(effects
+						(font
+							(size 1.778 1.778)
+						)
+					)
+				)
+				(text "LOGO"
+					(at 0 -1.778 0)
+					(effects
+						(font
+							(size 1.778 1.778)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*Fiducial10-20*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Fiducial_Altium Vault - TI_1_0"
+				(circle
+					(center 0 0)
+					(radius 1.016)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 195 152 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 2.54)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 255 255 255 1)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_IEC_HighVoltage_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "IEC 61010-1 High Voltage Warning"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*IEC_HighVoltage_Medium*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_IEC_HighVoltage_Altium Vault - TI_1_0"
+				(circle
+					(center -5.512 -4.813)
+					(radius 0.318)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center -5.512 -4.813)
+					(radius 0.318)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.512 -4.813) (xy 0 4.733)
+					)
+					(stroke
+						(width 0.508)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.512 -4.813) (xy 5.512 -4.813)
+					)
+					(stroke
+						(width 0.508)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.33 1.803) (xy 0.432 1.803) (xy -0.991 -0.889) (xy 0.965 -0.305) (xy -0.102 -2.667) (xy 0.33 -2.591)
+						(xy -0.432 -3.454) (xy -0.584 -2.413) (xy -0.279 -2.616) (xy 0.178 -0.914) (xy -1.676 -1.524)
+						(xy -0.33 1.803)
+					)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 0 4.733)
+					(radius 0.318)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 0 4.733)
+					(radius 0.318)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 4.733) (xy 5.512 -4.813)
+					)
+					(stroke
+						(width 0.508)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 5.512 -4.813)
+					(radius 0.318)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 5.512 -4.813)
+					(radius 0.318)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_Logo_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "IEC 61010-1 Caution Warning"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*IEC_Caution_Medium*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Logo_Altium Vault - TI_1_0"
+				(text "PCB"
+					(at -1.328 1.524 0)
+					(effects
+						(font
+							(size 1.778 1.778)
+						)
+					)
+				)
+				(text "LOGO"
+					(at 0 -1.778 0)
+					(effects
+						(font
+							(size 1.778 1.778)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_PCB_Altium Vault - TI_0"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Printed Circuit Board"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_PCB_Altium Vault - TI_0_1_0"
+				(rectangle
+					(start 20.32 5.08)
+					(end -20.32 -5.08)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 116 161 133 1)
+					)
+				)
+				(text "PCB Part Number:"
+					(at -15.392 0.635 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+					)
+				)
+				(text "PCB Number:"
+					(at -15.24 0.381 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "PCB Rev:"
+					(at -10.388 -3.429 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "551"
+					(at -2.21 0.635 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left)
+					)
+				)
+				(text "=PRJ_BasePN"
+					(at 2.388 0.635 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left)
+					)
+				)
+				(text "=PRJ_Number"
+					(at 2.54 0.381 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "=PCB_Rev"
+					(at 2.54 -3.429 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "-"
+					(at 11.938 0.762 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left)
+					)
+				)
+				(text "=PCB_CopperRev"
+					(at 12.954 0.635 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left)
+					)
+				)
+				(text "=PCB_SilkRev"
+					(at 19.279 0.635 0)
+					(effects
+						(font
+							(size 1.524 1.524)
+						)
+						(justify left)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Altium Vault - TI:root_0_Shunt_Altium Vault - TI"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Shunt, 100mil, Gold plated, Black"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*SNT-100-BK-G*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Shunt_Altium Vault - TI_1_0"
+				(circle
+					(center 0 2.54)
+					(radius 0.508)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy -2.54 2.54)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 2.54)
+					(mid 1.27 1.27)
+					(end 0 0)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.508)
+					(stroke
+						(width -0.0001)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 2.54 5.08)
+					(end -2.54 -2.54)
+					(stroke
+						(width 0)
+						(type solid)
+						(color 0 0 0 1)
+					)
+					(fill
+						(type color)
+						(color 255 255 255 1)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "root_0_Assembly Note_Altium Vault - TI_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "These assemblies must be clean and free from flux and all contaminants. Use of no clean flux is not acceptable."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*AssemblyNote*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Assembly Note_Altium Vault - TI_1_1_0"
+				(rectangle
+					(start 10.16 1.27)
+					(end -10.16 -1.27)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "Assembly Note"
+					(at 0 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "root_0_Assembly Note_Altium Vault - TI_2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "These assemblies must comply with workmanship standards IPC-A-610 Class 2, unless otherwise specified."
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*AssemblyNote*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "root_0_Assembly Note_Altium Vault - TI_2_1_0"
+				(rectangle
+					(start 10.16 1.27)
+					(end -10.16 -1.27)
+					(stroke
+						(width 0.0254)
+						(type solid)
+						(color 128 0 0 1)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "Assembly Note"
+					(at 0 0 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Bumpon_Altium Vault - TI")
+		(at 17.78 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "02bb910e-80d9-4fc5-8bff-002a18c904d5")
+		(property "Reference" "H1"
+			(at 11.938 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SJ-5303 (CLEAR)"
+			(at 11.938 54.864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Bumpon_SJ5003Transparent"
+			(at 17.78 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bumpon, Hemisphere, 0.44 X 0.20, Clear"
+			(at 17.78 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Bumpon"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "3M"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SJ-5303 (CLEAR)"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Transparent Bumpon"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://multimedia.mmm.com/mws/mediawebserver.dyn?6666660Zjcf6lVs6EVs666cIsCOrrrrQ-"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SJ5303-7-ND"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" "Newark"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" "23M7326"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" "Mouser"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" "517-SJ-5303CL"
+			(at 11.938 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "SJ-5303 (CLEAR)"
+			(at 11.938 44.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 81.28 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0392db95-6448-4a3f-bf95-af25baa3a61e")
+		(property "Reference" "FID6"
+			(at 78.74 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 80.01 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 81.28 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 81.28 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 78.74 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 78.74 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 78.74 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 78.74 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 78.74 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 78.74 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 78.74 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "FID6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 165.1 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "04012722-3a26-4055-ac5a-bc044156eb31")
+		(property "Reference" "SH-J10"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 162.306 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 165.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 165.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 162.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_PCB_Altium Vault - TI_0")
+		(at 33.02 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "041be9da-8932-48cb-8945-ee61da880ddf")
+		(property "Reference" "!PCB1"
+			(at 12.7 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Printed Circuit Board"
+			(at 31.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Printed Circuit Board"
+			(at 33.02 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "PCB"
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Any"
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "O"
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "PCB"
+			(at 12.7 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "!PCB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 223.52 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0ffe06db-c572-4fbc-a98c-a818bf79557d")
+		(property "Reference" "SH-J14"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 220.726 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 223.52 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 223.52 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 220.726 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Bumpon_Altium Vault - TI")
+		(at 45.72 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "133ee89c-6c6f-4e6c-87a3-2f3e7473c27a")
+		(property "Reference" "H2"
+			(at 39.878 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SJ-5303 (CLEAR)"
+			(at 39.878 54.864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Bumpon_SJ5003Transparent"
+			(at 45.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bumpon, Hemisphere, 0.44 X 0.20, Clear"
+			(at 45.72 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Bumpon"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "3M"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SJ-5303 (CLEAR)"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Transparent Bumpon"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://multimedia.mmm.com/mws/mediawebserver.dyn?6666660Zjcf6lVs6EVs666cIsCOrrrrQ-"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SJ5303-7-ND"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" "Newark"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" "23M7326"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" "Mouser"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" "517-SJ-5303CL"
+			(at 39.878 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "SJ-5303 (CLEAR)"
+			(at 39.878 44.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "root_0_Assembly Note_Altium Vault - TI_2")
+		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
+		(at 27.94 198.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26220612-0c2f-45f2-99b7-c8c840a12304")
+		(property "Reference" "ZZ3"
+			(at 17.78 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "These assemblies must comply with workmanship standards IPC-A-610 Class 2, unless otherwise specified."
+			(at 17.78 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AssemblyNote"
+			(at 27.94 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "These assemblies must comply with workmanship standards IPC-A-610 Class 2, unless otherwise specified."
+			(at 27.94 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "AssemblyNote"
+			(at 139.192 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "AssemblyNote"
+			(at 17.78 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 17.78 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-08-10"
+			(at 17.78 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "AssemblyNote"
+			(at 17.78 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "ZZ3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 271.78 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "27838e1d-2539-455b-9cfd-efa051c242bf")
+		(property "Reference" "SH-J18"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 268.986 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 271.78 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 271.78 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 271.78 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 268.986 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 17.78 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2962eb73-0540-4e6d-9f16-ffa6a31345ea")
+		(property "Reference" "FID1"
+			(at 15.24 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 16.51 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 17.78 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 17.78 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 15.24 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 15.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 15.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "FID1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 251.46 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "30e68851-799a-4195-9182-85239d68622c")
+		(property "Reference" "SH-J16"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 248.666 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 251.46 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 251.46 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 248.666 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 210.82 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "404ce3a5-4569-4365-9000-86969f45ea74")
+		(property "Reference" "SH-J13"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 208.026 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 210.82 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 210.82 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 208.026 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 58.42 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "464adcb2-4d26-456a-9eec-0bb24028f853")
+		(property "Reference" "SH-J3"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 55.626 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 58.42 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 58.42 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 55.626 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 43.18 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4bdfdb9d-ca7f-4df5-8799-120afdacb17a")
+		(property "Reference" "FID3"
+			(at 40.64 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 41.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 43.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 43.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 40.64 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 40.64 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 40.64 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "FID3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 55.88 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5803ac73-0874-4afa-b475-0aafb6fd8388")
+		(property "Reference" "FID4"
+			(at 53.34 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 54.61 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 55.88 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 55.88 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 55.88 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 53.34 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 53.34 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 53.34 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 53.34 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 53.34 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 53.34 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 53.34 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "FID4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 134.62 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5812f960-1f3f-4fa3-af34-4c7212b49872")
+		(property "Reference" "SH-J8"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 131.826 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 134.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 134.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 131.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 27.94 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5db52cf3-08f1-4c0c-9ed3-35f4824dd474")
+		(property "Reference" "SH-J1"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 25.146 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 27.94 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 27.94 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 25.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Logo_Altium Vault - TI")
+		(at 240.03 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5e5b2c89-a392-4a38-8748-e40759a41896")
+		(property "Reference" "Logo10"
+			(at 235.502 84.328 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CAUTION.  READ USER GUIDE BEFORE USE"
+			(at 235.502 93.726 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "IEC_Caution_Medium"
+			(at 240.03 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IEC 61010-1 Caution Warning"
+			(at 240.03 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Logo"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "IEC_Caution"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "CAUTION.  READ USER GUIDE BEFORE USE"
+			(at 233.622 -60.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "Logo10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 261.62 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ee6216a-398e-4f6d-9d67-13a3df77383f")
+		(property "Reference" "SH-J17"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 258.826 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 261.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 261.62 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 258.826 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 104.14 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6237ade8-481b-40d3-a0b3-659c0d6d9422")
+		(property "Reference" "SH-J6"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 101.346 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 104.14 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 104.14 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 101.346 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 73.66 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74eb4af9-458e-4f1a-954e-a24fc3f480fa")
+		(property "Reference" "SH-J4"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 70.866 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 73.66 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 73.66 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 73.66 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 70.866 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_IEC_HighVoltage_Altium Vault - TI")
+		(at 204.47 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74f3f396-2171-48a6-a8cc-fe44fca264e7")
+		(property "Reference" "LOGO5"
+			(at 198.196 79.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "DANGER HIGH VOLTAGE"
+			(at 198.196 93.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "IEC_HighVoltage_Medium"
+			(at 204.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IEC 61010-1 High Voltage Warning"
+			(at 204.47 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "IEC_HighVoltage"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "IEC_HighVoltage"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "DANGER HIGH VOLTAGE"
+			(at 198.196 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "LOGO5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 68.58 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "82aa885b-a73a-4006-bf1f-d05bb8411ea5")
+		(property "Reference" "FID5"
+			(at 66.04 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 67.31 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 68.58 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 68.58 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 66.04 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 66.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 66.04 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 66.04 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "FID5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 292.1 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "874298e5-3905-48a7-be30-c886201feece")
+		(property "Reference" "SH-J20"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 289.306 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 292.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 292.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 292.1 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 289.306 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "root_0_Assembly Note_Altium Vault - TI_1")
+		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
+		(at 27.94 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8c1b27d0-6e6f-46f6-924a-5fdb34072d3e")
+		(property "Reference" "ZZ2"
+			(at 17.78 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "These assemblies must be clean and free from flux and all contaminants. Use of no clean flux is not acceptable."
+			(at 17.78 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AssemblyNote"
+			(at 27.94 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "These assemblies must be clean and free from flux and all contaminants. Use of no clean flux is not acceptable."
+			(at 27.94 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "AssemblyNote"
+			(at 139.192 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "AssemblyNote"
+			(at 17.78 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 17.78 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-08-10"
+			(at 17.78 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "AssemblyNote"
+			(at 17.78 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "ZZ2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 43.18 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8fe7d637-0de3-4cd9-bbea-0b2fd1c8fa14")
+		(property "Reference" "SH-J2"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 40.386 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 43.18 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 43.18 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 40.386 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 238.76 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90fa349a-9777-4946-bd30-6636ad2b5cc8")
+		(property "Reference" "SH-J15"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 235.966 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 238.76 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 238.76 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 235.966 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 180.34 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "91fd1052-05b5-4d6a-b7f6-98da031dc360")
+		(property "Reference" "SH-J11"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 177.546 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 180.34 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 180.34 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 177.546 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Bumpon_Altium Vault - TI")
+		(at 96.52 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a1226f15-ff25-4c39-bcff-503dd67db6d1")
+		(property "Reference" "H4"
+			(at 90.678 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SJ-5303 (CLEAR)"
+			(at 90.678 54.864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Bumpon_SJ5003Transparent"
+			(at 96.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bumpon, Hemisphere, 0.44 X 0.20, Clear"
+			(at 96.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Bumpon"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "3M"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SJ-5303 (CLEAR)"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Transparent Bumpon"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://multimedia.mmm.com/mws/mediawebserver.dyn?6666660Zjcf6lVs6EVs666cIsCOrrrrQ-"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SJ5303-7-ND"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" "Newark"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" "23M7326"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" "Mouser"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" "517-SJ-5303CL"
+			(at 90.678 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "SJ-5303 (CLEAR)"
+			(at 90.678 44.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 195.58 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "af9711cf-07cf-4d4d-83a1-1575f8c8caab")
+		(property "Reference" "SH-J12"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 192.786 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 195.58 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 195.58 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 192.786 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 88.9 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c50d2445-8ff6-4ca5-84f0-80985baba89d")
+		(property "Reference" "SH-J5"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 86.106 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 88.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 88.9 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 86.106 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 149.86 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8831296-3b26-4d24-b7e7-172253f65f5a")
+		(property "Reference" "SH-J9"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 147.066 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 149.86 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 149.86 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 147.066 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
+		(at 27.94 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ca6ec9f2-52e6-45ab-8826-7f71d88411e4")
+		(property "Reference" "ZZ1"
+			(at 17.78 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "These assemblies are ESD sensitive, ESD precautions shall be observed."
+			(at 17.78 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AssemblyNote"
+			(at 27.94 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "These assemblies are ESD sensitive, ESD precautions shall be observed."
+			(at 27.94 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "AssemblyNote"
+			(at 139.192 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "AssemblyNote"
+			(at 17.78 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 17.78 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-08-10"
+			(at 17.78 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "AssemblyNote"
+			(at 17.78 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "ZZ1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_IEC_HighVoltage_Altium Vault - TI")
+		(at 173.99 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d01775d4-c8d2-4193-8a13-97413dc8b576")
+		(property "Reference" "LOGO4"
+			(at 167.716 79.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "DANGER HIGH VOLTAGE"
+			(at 167.716 93.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "IEC_HighVoltage_Medium"
+			(at 173.99 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 173.99 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IEC 61010-1 High Voltage Warning"
+			(at 173.99 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "IEC_HighVoltage"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "IEC_HighVoltage"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "DANGER HIGH VOLTAGE"
+			(at 167.716 -62.992 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "LOGO4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Bumpon_Altium Vault - TI")
+		(at 71.12 48.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "df6ff107-64cc-4df1-b712-3504fbacaa66")
+		(property "Reference" "H3"
+			(at 65.278 47.498 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SJ-5303 (CLEAR)"
+			(at 65.278 54.864 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Bumpon_SJ5003Transparent"
+			(at 71.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bumpon, Hemisphere, 0.44 X 0.20, Clear"
+			(at 71.12 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Bumpon"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "3M"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SJ-5303 (CLEAR)"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Transparent Bumpon"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://multimedia.mmm.com/mws/mediawebserver.dyn?6666660Zjcf6lVs6EVs666cIsCOrrrrQ-"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SJ5303-7-ND"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" "Newark"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" "23M7326"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" "Mouser"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" "517-SJ-5303CL"
+			(at 65.278 -99.822 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "SJ-5303 (CLEAR)"
+			(at 65.278 44.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 30.48 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e8e3078d-a3d4-416c-b302-d5d489adeffd")
+		(property "Reference" "FID2"
+			(at 27.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 29.21 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 27.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 27.94 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 27.94 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "FID2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 281.94 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ed3ec9dc-0cb2-42cb-b478-a8fcedf1cb6e")
+		(property "Reference" "SH-J19"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 279.146 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 281.94 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 281.94 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 281.94 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 279.146 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074847-1_Altium Vault - TI")
+		(at 119.38 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f11e69f2-7f91-40af-82d3-041e96b1c478")
+		(property "Reference" "Logo8"
+			(at 114.78 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "FCC disclaimer"
+			(at 114.78 92.456 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "FCC_disclaimer"
+			(at 119.38 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "FCC_disclaimer"
+			(at 119.38 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 112.972 -57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 112.972 -57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 112.972 -57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "FCC_disclaimer"
+			(at 114.853 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "FCC disclaimer"
+			(at 114.853 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Logo"
+			(at 112.972 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "Logo8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 119.38 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f620ba56-5f37-43fd-a159-accc083b6367")
+		(property "Reference" "SH-J7"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 116.586 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 119.38 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 119.38 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 116.586 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074769-1_Altium Vault - TI")
+		(at 142.24 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f85f7d12-1ceb-47e1-9a4c-c9a6a937ff0f")
+		(property "Reference" "Logo9"
+			(at 137.713 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "WEEE logo"
+			(at 137.713 92.456 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "WEEE_Minimum"
+			(at 142.24 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "WEEE logo"
+			(at 142.24 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "WEEE logo"
+			(at 135.832 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "WEEE logo"
+			(at 135.832 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "WEEE logo"
+			(at 135.832 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "Logo9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Shunt_Altium Vault - TI")
+		(at 302.26 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fc992b36-48ae-4dc2-888c-ca5732a98cad")
+		(property "Reference" "SH-J21"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "SNT-100-BK-G"
+			(at 299.466 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SNT-100-BK-G"
+			(at 302.26 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 302.26 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Shunt, 100mil, Gold plated, Black"
+			(at 302.26 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.samtec.com/ftppub/pdf/SNT.PDF"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" "1x2"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Shunt"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Shunt"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Shunt"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" "969102-0000-DA"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "SAM8858-ND"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "SNT-100-BK-G"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" "3M"
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_EU ROHS-2" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_LIFECYCLE" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "GREEN_REACH" ""
+			(at 299.466 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "BMS029B"
+				(path "/db2b43f5-26e7-42a7-a214-ba64865ac4b0/938622ec-0e9d-4126-92a4-d3b6be2778cd"
+					(reference "SH-J21")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
