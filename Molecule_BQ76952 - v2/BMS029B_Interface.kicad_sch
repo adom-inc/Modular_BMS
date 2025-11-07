@@ -27950,7 +27950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Molex_0022284043"
+		(property "Footprint" "Kales_Custom_Footprints:ADOM_MEDIUM_HEADER_4"
 			(at 20.32 215.9 0)
 			(effects
 				(font
@@ -33229,7 +33229,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Sullins_xxC11SAAN"
+		(property "Footprint" "Kales_Custom_Footprints:ADOM_MEDIUM_HEADER_11"
 			(at 27.94 71.12 0)
 			(effects
 				(font
@@ -33798,7 +33798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Sullins_xxC07SAAN"
+		(property "Footprint" "Kales_Custom_Footprints:ADOM_MEDIUM_HEADER_7"
 			(at 195.58 63.5 0)
 			(effects
 				(font
@@ -39681,7 +39681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "WURTH_61300211121"
+		(property "Footprint" "Kales_Custom_Footprints:ADOM_MEDIUM_HEADER_2"
 			(at 96.52 134.62 0)
 			(effects
 				(font
