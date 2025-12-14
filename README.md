@@ -2,6 +2,12 @@
 
 This repository contains hardware and firmware for a **Modular Battery Management System (BMS)**.
 
+## Notes
+
+To reset the system, please power cycle the MSP Ez-FET Lite Molecule which powers the MSP onboard the BQ76952EVM. 
+If for some reason the BQ76952 chip itself is stuck, you may pull the "RST_SHUT" line high (or to REG1)
+A minimum of 3 batteries are required
+
 ## Firmware Documentation
 Detailed firmware documentation can be found in:
 
